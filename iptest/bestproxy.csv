@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-8.218.188.129,80,false,HKG,Asia Pacific,Hong Kong,53 ms
-8.218.8.142,80,false,HKG,Asia Pacific,Hong Kong,53 ms
-8.218.48.92,80,false,HKG,Asia Pacific,Hong Kong,54 ms
-8.217.149.28,80,false,HKG,Asia Pacific,Hong Kong,55 ms
-47.76.37.57,80,false,HKG,Asia Pacific,Hong Kong,55 ms
-47.76.33.40,80,false,HKG,Asia Pacific,Hong Kong,57 ms
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,108 ms
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,109 ms
-138.2.80.183,80,false,SIN,Asia Pacific,Singapore,113 ms
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,114 ms
-158.178.242.56,80,false,SIN,Asia Pacific,Singapore,118 ms
-158.178.242.5,80,false,SIN,Asia Pacific,Singapore,118 ms
-158.178.246.169,80,false,SIN,Asia Pacific,Singapore,118 ms
-47.74.43.95,80,false,HKG,Asia Pacific,Hong Kong,172 ms
-47.74.27.211,80,false,HKG,Asia Pacific,Hong Kong,176 ms
+8.218.8.142,80,false,HKG,Asia Pacific,Hong Kong,54 ms
+47.245.30.144,80,false,NRT,Asia Pacific,Tokyo,82 ms
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,117 ms
+168.138.185.28,80,false,SIN,Asia Pacific,Singapore,119 ms
+138.2.104.2,80,false,SIN,Asia Pacific,Singapore,120 ms
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,120 ms
+158.178.242.5,80,false,SIN,Asia Pacific,Singapore,121 ms
+158.178.246.169,80,false,SIN,Asia Pacific,Singapore,121 ms
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,121 ms
+138.2.80.183,80,false,SIN,Asia Pacific,Singapore,123 ms
+129.150.63.96,80,false,SIN,Asia Pacific,Singapore,124 ms
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,128 ms
+47.74.43.95,80,false,HKG,Asia Pacific,Hong Kong,171 ms
+47.74.27.211,80,false,HKG,Asia Pacific,Hong Kong,175 ms
+47.74.49.62,80,false,HKG,Asia Pacific,Hong Kong,176 ms
