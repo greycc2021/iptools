@@ -1,0 +1,15 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟
+47.242.59.216,80,false,HKG,Asia Pacific,Hong Kong,55 ms
+8.218.48.92,80,false,HKG,Asia Pacific,Hong Kong,55 ms
+47.76.32.108,80,false,HKG,Asia Pacific,Hong Kong,56 ms
+129.150.63.96,80,false,SIN,Asia Pacific,Singapore,86 ms
+158.178.242.5,80,false,SIN,Asia Pacific,Singapore,87 ms
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,87 ms
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,87 ms
+138.2.104.2,80,false,SIN,Asia Pacific,Singapore,88 ms
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,90 ms
+47.74.49.62,80,false,HKG,Asia Pacific,Hong Kong,178 ms
+47.245.31.214,80,false,SIN,Asia Pacific,Singapore,196 ms
+47.245.107.174,80,false,SIN,Asia Pacific,Singapore,273 ms
+47.245.90.176,80,false,SIN,Asia Pacific,Singapore,284 ms
+47.245.114.163,80,false,SIN,Asia Pacific,Singapore,284 ms
