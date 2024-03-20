@@ -1,5 +1,3 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-146.70.175.167,443,true,AMS,Europe,Amsterdam,145 ms
-129.159.241.172,443,true,FRA,Europe,Frankfurt,193 ms
-146.70.175.175,443,true,AMS,Europe,Amsterdam,202 ms
-49.51.46.56,443,true,SJC,North America,San Jose,205 ms
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+130.162.161.67,443,true,FRA,Europe,Frankfurt,311 ms,2215 kB/s
+49.51.46.56,443,true,SJC,North America,San Jose,199 ms,1146 kB/s
