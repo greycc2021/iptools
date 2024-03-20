@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.91.2.5,80,false,NRT,Asia Pacific,Tokyo,81 ms,16739 kB/s
-129.150.63.96,80,false,SIN,Asia Pacific,Singapore,90 ms,15411 kB/s
-138.2.80.183,80,false,SIN,Asia Pacific,Singapore,88 ms,15350 kB/s
-158.178.242.56,80,false,SIN,Asia Pacific,Singapore,91 ms,15304 kB/s
-138.2.104.2,80,false,SIN,Asia Pacific,Singapore,89 ms,15275 kB/s
-47.74.5.150,80,false,HKG,Asia Pacific,Hong Kong,150 ms,15244 kB/s
-168.138.184.64,80,false,SIN,Asia Pacific,Singapore,92 ms,15015 kB/s
-47.91.29.108,80,false,HKG,Asia Pacific,Hong Kong,149 ms,14997 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,91 ms,14908 kB/s
-47.74.13.94,80,false,NRT,Asia Pacific,Tokyo,88 ms,14770 kB/s
-158.178.242.5,80,false,SIN,Asia Pacific,Singapore,91 ms,14741 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,89 ms,14734 kB/s
-158.178.246.169,80,false,SIN,Asia Pacific,Singapore,88 ms,14534 kB/s
-47.74.16.67,80,false,HKG,Asia Pacific,Hong Kong,174 ms,12590 kB/s
-47.245.12.38,80,false,HKG,Asia Pacific,Hong Kong,182 ms,12518 kB/s
+8.218.204.128,80,false,HKG,Asia Pacific,Hong Kong,54 ms,17377 kB/s
+47.74.41.87,80,false,NRT,Asia Pacific,Tokyo,78 ms,16532 kB/s
+47.91.2.5,80,false,NRT,Asia Pacific,Tokyo,148 ms,15347 kB/s
+138.2.104.2,80,false,SIN,Asia Pacific,Singapore,90 ms,15242 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,90 ms,15185 kB/s
+47.245.30.144,80,false,NRT,Asia Pacific,Tokyo,85 ms,15171 kB/s
+47.74.13.94,80,false,NRT,Asia Pacific,Tokyo,87 ms,15116 kB/s
+129.150.63.96,80,false,SIN,Asia Pacific,Singapore,92 ms,15082 kB/s
+138.2.80.183,80,false,SIN,Asia Pacific,Singapore,90 ms,15054 kB/s
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,89 ms,14924 kB/s
+168.138.185.28,80,false,SIN,Asia Pacific,Singapore,87 ms,14780 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,90 ms,14755 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,99 ms,14670 kB/s
+47.74.49.62,80,false,HKG,Asia Pacific,Hong Kong,169 ms,13832 kB/s
+47.76.33.40,80,false,HKG,Asia Pacific,Hong Kong,56 ms,7710 kB/s
