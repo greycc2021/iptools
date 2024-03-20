@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.74.41.87,80,false,NRT,Asia Pacific,Tokyo,79 ms,15769 kB/s
-8.217.167.88,80,false,HKG,Asia Pacific,Hong Kong,55 ms,15428 kB/s
-47.74.13.94,80,false,NRT,Asia Pacific,Tokyo,87 ms,14867 kB/s
-138.2.80.183,80,false,SIN,Asia Pacific,Singapore,90 ms,14746 kB/s
-158.178.242.56,80,false,SIN,Asia Pacific,Singapore,90 ms,14726 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,88 ms,14419 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,89 ms,14405 kB/s
-47.245.30.144,80,false,NRT,Asia Pacific,Tokyo,85 ms,14306 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,90 ms,14133 kB/s
-129.150.63.96,80,false,SIN,Asia Pacific,Singapore,88 ms,13971 kB/s
-47.91.29.108,80,false,HKG,Asia Pacific,Hong Kong,142 ms,13862 kB/s
-158.178.242.5,80,false,SIN,Asia Pacific,Singapore,93 ms,13819 kB/s
-47.245.37.41,80,false,NRT,Asia Pacific,Tokyo,82 ms,13698 kB/s
-8.210.174.156,80,false,HKG,Asia Pacific,Hong Kong,54 ms,10219 kB/s
-47.242.155.183,80,false,HKG,Asia Pacific,Hong Kong,54 ms,3542 kB/s
+47.74.41.87,80,false,NRT,Asia Pacific,Tokyo,78 ms,16809 kB/s
+47.245.37.41,80,false,NRT,Asia Pacific,Tokyo,86 ms,16308 kB/s
+47.91.29.108,80,false,HKG,Asia Pacific,Hong Kong,149 ms,15187 kB/s
+129.150.63.96,80,false,SIN,Asia Pacific,Singapore,89 ms,15134 kB/s
+47.74.5.99,80,false,HKG,Asia Pacific,Hong Kong,145 ms,15118 kB/s
+138.2.80.183,80,false,SIN,Asia Pacific,Singapore,88 ms,15052 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,88 ms,15016 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,90 ms,14955 kB/s
+47.91.3.112,80,false,HKG,Asia Pacific,Hong Kong,148 ms,14940 kB/s
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,90 ms,14768 kB/s
+168.138.184.64,80,false,HKG,Asia Pacific,Hong Kong,117 ms,14654 kB/s
+47.74.13.94,80,false,NRT,Asia Pacific,Tokyo,84 ms,13809 kB/s
+47.245.52.165,80,false,HKG,Asia Pacific,Hong Kong,174 ms,12648 kB/s
+47.74.27.211,80,false,HKG,Asia Pacific,Hong Kong,174 ms,12249 kB/s
+8.217.167.88,80,false,HKG,Asia Pacific,Hong Kong,53 ms,8326 kB/s
