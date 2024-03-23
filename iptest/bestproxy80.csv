@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,90 ms,15655 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,89 ms,15169 kB/s
-158.178.242.5,80,false,SIN,Asia Pacific,Singapore,93 ms,14631 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,90 ms,14418 kB/s
-168.138.184.64,80,false,SIN,Asia Pacific,Singapore,91 ms,14080 kB/s
-158.178.242.56,80,false,SIN,Asia Pacific,Singapore,91 ms,13718 kB/s
-47.245.4.22,80,false,HKG,Asia Pacific,Hong Kong,168 ms,13430 kB/s
-47.74.26.196,80,false,HKG,Asia Pacific,Hong Kong,171 ms,13143 kB/s
-158.178.246.169,80,false,SIN,Asia Pacific,Singapore,93 ms,12596 kB/s
-8.209.222.31,80,false,NRT,Asia Pacific,Tokyo,88 ms,12113 kB/s
-47.245.52.153,80,false,NRT,Asia Pacific,Tokyo,83 ms,11824 kB/s
-47.245.8.233,80,false,NRT,Asia Pacific,Tokyo,83 ms,11352 kB/s
-47.91.21.149,80,false,HKG,Asia Pacific,Hong Kong,148 ms,11315 kB/s
-47.91.16.198,80,false,LAX,North America,Los Angeles,185 ms,10744 kB/s
-47.74.4.47,80,false,SIN,Asia Pacific,Singapore,168 ms,9320 kB/s
+8.218.243.95,80,false,HKG,Asia Pacific,Hong Kong,55 ms,17478 kB/s
+158.178.246.169,80,false,SIN,Asia Pacific,Singapore,89 ms,15204 kB/s
+47.74.41.136,80,false,NRT,Asia Pacific,Tokyo,82 ms,15149 kB/s
+158.178.242.5,80,false,SIN,Asia Pacific,Singapore,89 ms,15146 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,89 ms,15141 kB/s
+47.245.37.37,80,false,NRT,Asia Pacific,Tokyo,81 ms,14927 kB/s
+168.138.185.28,80,false,SIN,Asia Pacific,Singapore,88 ms,14912 kB/s
+8.209.240.227,80,false,NRT,Asia Pacific,Tokyo,84 ms,14861 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,88 ms,14842 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,93 ms,14773 kB/s
+47.91.19.249,80,false,HKG,Asia Pacific,Hong Kong,152 ms,11719 kB/s
+47.91.21.149,80,false,HKG,Asia Pacific,Hong Kong,150 ms,11333 kB/s
+47.91.16.214,80,false,LAX,North America,Los Angeles,184 ms,11330 kB/s
+47.245.4.22,80,false,HKG,Asia Pacific,Hong Kong,169 ms,11077 kB/s
+47.91.3.179,80,false,LAX,North America,Los Angeles,182 ms,1322 kB/s
