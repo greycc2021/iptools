@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.243.95,80,false,HKG,Asia Pacific,Hong Kong,56 ms,17310 kB/s
-47.245.55.235,80,false,NRT,Asia Pacific,Tokyo,82 ms,16694 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,123 ms,14946 kB/s
-158.178.246.169,80,false,SIN,Asia Pacific,Singapore,125 ms,14934 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,112 ms,14845 kB/s
-158.178.242.56,80,false,SIN,Asia Pacific,Singapore,126 ms,14731 kB/s
-158.178.242.5,80,false,SIN,Asia Pacific,Singapore,124 ms,14547 kB/s
-47.245.57.38,80,false,HKG,Asia Pacific,Hong Kong,164 ms,14002 kB/s
-47.74.37.50,80,false,LAX,North America,Los Angeles,178 ms,12104 kB/s
-47.91.21.149,80,false,LAX,North America,Los Angeles,186 ms,11471 kB/s
-47.74.6.16,80,false,LAX,North America,Los Angeles,193 ms,11247 kB/s
-47.74.15.117,80,false,LAX,North America,Los Angeles,191 ms,11227 kB/s
-47.91.15.247,80,false,LAX,North America,Los Angeles,185 ms,11108 kB/s
-47.245.37.98,80,false,LAX,North America,Los Angeles,190 ms,10907 kB/s
-47.74.40.13,80,false,NRT,Asia Pacific,Tokyo,77 ms,0 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,182 ms,15582 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,172 ms,14588 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,170 ms,14213 kB/s
+47.245.6.9,80,false,HKG,Asia Pacific,Hong Kong,184 ms,13876 kB/s
+47.245.4.22,80,false,HKG,Asia Pacific,Hong Kong,161 ms,13794 kB/s
+47.91.25.66,80,false,LAX,North America,Los Angeles,185 ms,12839 kB/s
+47.74.42.17,80,false,LAX,North America,Los Angeles,179 ms,11792 kB/s
+47.91.21.149,80,false,LAX,North America,Los Angeles,185 ms,11654 kB/s
+47.245.52.165,80,false,LAX,North America,Los Angeles,186 ms,11407 kB/s
+47.74.4.47,80,false,LAX,North America,Los Angeles,194 ms,11325 kB/s
+47.91.3.179,80,false,LAX,North America,Los Angeles,192 ms,11284 kB/s
+47.74.15.120,80,false,LAX,North America,Los Angeles,188 ms,11035 kB/s
+47.245.29.126,80,false,LAX,North America,Los Angeles,181 ms,11027 kB/s
+47.91.17.102,80,false,LAX,North America,Los Angeles,191 ms,10831 kB/s
+47.245.55.94,80,false,HKG,Asia Pacific,Hong Kong,194 ms,9662 kB/s
