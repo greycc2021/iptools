@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.126.53,80,false,HKG,Asia Pacific,Hong Kong,53 ms,17724 kB/s
-47.243.42.219,80,false,HKG,Asia Pacific,Hong Kong,57 ms,17558 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,94 ms,15151 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,93 ms,15124 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,89 ms,15110 kB/s
-47.245.38.233,80,false,NRT,Asia Pacific,Tokyo,79 ms,15023 kB/s
-8.210.66.190,80,false,HKG,Asia Pacific,Hong Kong,55 ms,14990 kB/s
-8.218.243.95,80,false,HKG,Asia Pacific,Hong Kong,55 ms,14979 kB/s
-47.74.40.13,80,false,NRT,Asia Pacific,Tokyo,84 ms,14745 kB/s
-47.245.4.22,80,false,HKG,Asia Pacific,Hong Kong,164 ms,13936 kB/s
-47.91.17.102,80,false,LAX,North America,Los Angeles,192 ms,13390 kB/s
-47.91.16.214,80,false,HKG,Asia Pacific,Hong Kong,149 ms,12016 kB/s
-47.245.62.84,80,false,LAX,North America,Los Angeles,183 ms,10669 kB/s
-47.245.31.0,80,false,HKG,Asia Pacific,Hong Kong,171 ms,9407 kB/s
-47.243.107.148,80,false,HKG,Asia Pacific,Hong Kong,54 ms,3685 kB/s
+8.210.66.190,80,false,HKG,Asia Pacific,Hong Kong,52 ms,17255 kB/s
+47.74.40.13,80,false,NRT,Asia Pacific,Tokyo,79 ms,17187 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,90 ms,15859 kB/s
+47.245.38.233,80,false,NRT,Asia Pacific,Tokyo,82 ms,14959 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,88 ms,14947 kB/s
+47.91.22.115,80,false,NRT,Asia Pacific,Tokyo,84 ms,14884 kB/s
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,88 ms,14741 kB/s
+8.218.243.95,80,false,HKG,Asia Pacific,Hong Kong,56 ms,14705 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,88 ms,14652 kB/s
+47.245.4.22,80,false,HKG,Asia Pacific,Hong Kong,158 ms,14021 kB/s
+47.245.6.9,80,false,HKG,Asia Pacific,Hong Kong,160 ms,13795 kB/s
+47.245.29.126,80,false,LAX,North America,Los Angeles,183 ms,11737 kB/s
+47.74.14.85,80,false,LAX,North America,Los Angeles,189 ms,11578 kB/s
+47.245.8.156,80,false,LAX,North America,Los Angeles,184 ms,9684 kB/s
+47.243.42.219,80,false,HKG,Asia Pacific,Hong Kong,56 ms,5329 kB/s
