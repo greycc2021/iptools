@@ -1,15 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,89 ms,16954 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,87 ms,16581 kB/s
-8.217.85.14,80,false,SIN,Asia Pacific,Singapore,91 ms,15232 kB/s
-8.218.85.128,80,false,SIN,Asia Pacific,Singapore,91 ms,14887 kB/s
-8.209.222.232,80,false,HKG,Asia Pacific,Hong Kong,163 ms,13631 kB/s
-47.74.51.89,80,false,LAX,North America,Los Angeles,183 ms,12897 kB/s
-47.91.28.218,80,false,LAX,North America,Los Angeles,183 ms,11843 kB/s
-47.245.14.160,80,false,LAX,North America,Los Angeles,185 ms,11829 kB/s
-47.74.11.251,80,false,LAX,North America,Los Angeles,185 ms,11821 kB/s
-47.245.14.216,80,false,LAX,North America,Los Angeles,190 ms,11709 kB/s
-47.91.14.69,80,false,LAX,North America,Los Angeles,189 ms,11480 kB/s
-8.210.66.190,80,false,HKG,Asia Pacific,Hong Kong,54 ms,9902 kB/s
-47.74.4.47,80,false,LAX,North America,Los Angeles,200 ms,9496 kB/s
-8.210.174.156,80,false,SIN,Asia Pacific,Singapore,88 ms,4399 kB/s
+168.138.185.28,80,false,SIN,Asia Pacific,Singapore,96 ms,14239 kB/s
+8.218.142.253,80,false,HKG,Asia Pacific,Hong Kong,61 ms,12204 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,100 ms,11992 kB/s
+8.210.174.156,80,false,HKG,Asia Pacific,Hong Kong,76 ms,11928 kB/s
+47.245.29.126,80,false,LAX,North America,Los Angeles,193 ms,11797 kB/s
+47.91.31.235,80,false,LAX,North America,Los Angeles,200 ms,11644 kB/s
+47.245.58.175,80,false,SIN,Asia Pacific,Singapore,166 ms,11480 kB/s
+47.91.16.214,80,false,LAX,North America,Los Angeles,191 ms,10315 kB/s
+47.245.52.165,80,false,SIN,Asia Pacific,Singapore,167 ms,10220 kB/s
+8.209.212.5,80,false,LAX,North America,Los Angeles,180 ms,10141 kB/s
+47.245.11.216,80,false,LAX,North America,Los Angeles,187 ms,10095 kB/s
+47.245.10.77,80,false,LAX,North America,Los Angeles,193 ms,10018 kB/s
+47.74.13.78,80,false,NRT,Asia Pacific,Tokyo,82 ms,9467 kB/s
+47.245.41.69,80,false,LAX,North America,Los Angeles,197 ms,8808 kB/s
+47.74.18.121,80,false,LAX,North America,Los Angeles,193 ms,0 kB/s
