@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.217.159.210,80,false,HKG,Asia Pacific,Hong Kong,54 ms,17648 kB/s
-8.218.243.95,80,false,HKG,Asia Pacific,Hong Kong,57 ms,17493 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,89 ms,16464 kB/s
-168.138.184.64,80,false,SIN,Asia Pacific,Singapore,90 ms,15495 kB/s
-47.245.58.250,80,false,NRT,Asia Pacific,Tokyo,86 ms,15203 kB/s
-47.74.40.13,80,false,NRT,Asia Pacific,Tokyo,79 ms,14814 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,89 ms,14527 kB/s
-47.245.33.56,80,false,NRT,Asia Pacific,Tokyo,90 ms,13657 kB/s
-47.74.15.120,80,false,HKG,Asia Pacific,Hong Kong,192 ms,13140 kB/s
-47.245.34.36,80,false,LAX,North America,Los Angeles,183 ms,11111 kB/s
-8.210.174.156,80,false,HKG,Asia Pacific,Hong Kong,54 ms,11029 kB/s
-47.245.14.160,80,false,LAX,North America,Los Angeles,193 ms,10843 kB/s
-8.217.167.88,80,false,HKG,Asia Pacific,Hong Kong,55 ms,10387 kB/s
-47.245.8.156,80,false,LAX,North America,Los Angeles,216 ms,10150 kB/s
-47.245.13.93,80,false,HKG,Asia Pacific,Hong Kong,168 ms,9621 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,87 ms,16201 kB/s
+158.178.241.45,80,false,SIN,Asia Pacific,Singapore,91 ms,15024 kB/s
+158.178.242.56,80,false,SIN,Asia Pacific,Singapore,89 ms,14099 kB/s
+47.74.16.67,80,false,LAX,North America,Los Angeles,206 ms,13549 kB/s
+47.74.15.117,80,false,LAX,North America,Los Angeles,184 ms,12069 kB/s
+8.209.212.5,80,false,LAX,North America,Los Angeles,181 ms,11813 kB/s
+47.245.29.126,80,false,LAX,North America,Los Angeles,185 ms,11794 kB/s
+8.209.243.172,80,false,HKG,Asia Pacific,Hong Kong,168 ms,11369 kB/s
+47.245.53.50,80,false,LAX,North America,Los Angeles,183 ms,11295 kB/s
+47.74.18.121,80,false,SIN,Asia Pacific,Singapore,167 ms,11230 kB/s
+47.74.3.2,80,false,LAX,North America,Los Angeles,192 ms,11153 kB/s
+47.91.21.149,80,false,LAX,North America,Los Angeles,188 ms,10998 kB/s
+47.74.4.47,80,false,LAX,North America,Los Angeles,191 ms,10587 kB/s
+47.245.10.164,80,false,LAX,North America,Los Angeles,182 ms,9934 kB/s
+47.243.107.148,80,false,HKG,Asia Pacific,Hong Kong,51 ms,197 kB/s
