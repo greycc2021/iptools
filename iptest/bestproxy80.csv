@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.217.164.10,80,false,HKG,Asia Pacific,Hong Kong,58 ms,17504 kB/s
-47.245.39.28,80,false,NRT,Asia Pacific,Tokyo,86 ms,15402 kB/s
-47.245.7.212,80,false,NRT,Asia Pacific,Tokyo,87 ms,15271 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,88 ms,15262 kB/s
-168.138.185.28,80,false,SIN,Asia Pacific,Singapore,88 ms,15064 kB/s
-47.245.59.243,80,false,NRT,Asia Pacific,Tokyo,81 ms,14893 kB/s
-168.138.184.64,80,false,SIN,Asia Pacific,Singapore,88 ms,14779 kB/s
-47.245.54.140,80,false,NRT,Asia Pacific,Tokyo,85 ms,14771 kB/s
-47.74.36.154,80,false,LAX,North America,Los Angeles,181 ms,14389 kB/s
-8.209.255.195,80,false,HKG,Asia Pacific,Hong Kong,173 ms,13155 kB/s
-47.74.54.33,80,false,LAX,North America,Los Angeles,182 ms,11965 kB/s
-47.245.42.210,80,false,SIN,Asia Pacific,Singapore,163 ms,11847 kB/s
-47.91.16.214,80,false,HKG,Asia Pacific,Hong Kong,144 ms,10735 kB/s
-8.218.142.253,80,false,HKG,Asia Pacific,Hong Kong,54 ms,9955 kB/s
-47.245.26.167,80,false,HKG,Asia Pacific,Hong Kong,177 ms,9173 kB/s
+47.245.59.243,80,false,NRT,Asia Pacific,Tokyo,82 ms,17001 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,87 ms,15347 kB/s
+138.2.92.11,80,false,SIN,Asia Pacific,Singapore,89 ms,15097 kB/s
+168.138.161.0,80,false,SIN,Asia Pacific,Singapore,89 ms,15024 kB/s
+47.245.7.212,80,false,NRT,Asia Pacific,Tokyo,89 ms,14974 kB/s
+47.245.54.140,80,false,NRT,Asia Pacific,Tokyo,85 ms,14866 kB/s
+168.138.185.28,80,false,SIN,Asia Pacific,Singapore,92 ms,14725 kB/s
+8.217.164.10,80,false,HKG,Asia Pacific,Hong Kong,55 ms,14722 kB/s
+47.245.39.49,80,false,HKG,Asia Pacific,Hong Kong,171 ms,13045 kB/s
+47.74.36.154,80,false,LAX,North America,Los Angeles,183 ms,11415 kB/s
+47.245.37.29,80,false,LAX,North America,Los Angeles,190 ms,11353 kB/s
+47.245.12.179,80,false,LAX,North America,Los Angeles,192 ms,11346 kB/s
+47.91.21.149,80,false,SIN,Asia Pacific,Singapore,176 ms,10806 kB/s
+47.74.4.47,80,false,LAX,North America,Los Angeles,190 ms,10315 kB/s
+47.74.50.249,80,false,LAX,North America,Los Angeles,184 ms,10106 kB/s
