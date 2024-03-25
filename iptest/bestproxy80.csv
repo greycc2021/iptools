@@ -1,15 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.210.245.224,80,false,HKG,Asia Pacific,Hong Kong,57 ms,17319 kB/s
-138.2.92.11,80,false,SIN,Asia Pacific,Singapore,93 ms,15361 kB/s
-152.69.215.14,80,false,SIN,Asia Pacific,Singapore,90 ms,15291 kB/s
-47.91.29.79,80,false,NRT,Asia Pacific,Tokyo,83 ms,15177 kB/s
-168.138.161.0,80,false,SIN,Asia Pacific,Singapore,90 ms,14857 kB/s
-158.178.241.45,80,false,SIN,Asia Pacific,Singapore,89 ms,14482 kB/s
-47.245.13.93,80,false,LAX,North America,Los Angeles,191 ms,13820 kB/s
-47.74.36.154,80,false,LAX,North America,Los Angeles,187 ms,12169 kB/s
-47.91.31.235,80,false,LAX,North America,Los Angeles,183 ms,11550 kB/s
-47.245.30.208,80,false,SIN,Asia Pacific,Singapore,160 ms,11314 kB/s
-47.91.16.198,80,false,HKG,Asia Pacific,Hong Kong,166 ms,11145 kB/s
-47.91.17.102,80,false,LAX,North America,Los Angeles,190 ms,10946 kB/s
-47.245.14.216,80,false,LAX,North America,Los Angeles,189 ms,10789 kB/s
-8.218.156.91,80,false,HKG,Asia Pacific,Hong Kong,56 ms,7225 kB/s
+152.69.215.14,80,false,SIN,Asia Pacific,Singapore,92 ms,16659 kB/s
+47.245.12.179,80,false,LAX,North America,Los Angeles,192 ms,16042 kB/s
+47.245.41.69,80,false,LAX,North America,Los Angeles,194 ms,15036 kB/s
+168.138.184.64,80,false,SIN,Asia Pacific,Singapore,92 ms,14357 kB/s
+47.74.13.66,80,false,LAX,North America,Los Angeles,190 ms,13937 kB/s
+47.74.36.154,80,false,LAX,North America,Los Angeles,201 ms,12200 kB/s
+47.91.10.228,80,false,LAX,North America,Los Angeles,187 ms,11856 kB/s
+47.91.31.235,80,false,KIX,Asia Pacific,Osaka,90 ms,11848 kB/s
+47.245.11.216,80,false,LAX,North America,Los Angeles,184 ms,11803 kB/s
+47.91.10.241,80,false,LAX,North America,Los Angeles,180 ms,11647 kB/s
+47.245.30.208,80,false,LAX,North America,Los Angeles,181 ms,11508 kB/s
+47.74.50.249,80,false,LAX,North America,Los Angeles,184 ms,11407 kB/s
+8.218.18.132,80,false,HKG,Asia Pacific,Hong Kong,58 ms,10870 kB/s
+47.91.21.149,80,false,LAX,North America,Los Angeles,185 ms,10212 kB/s
+8.210.245.224,80,false,HKG,Asia Pacific,Hong Kong,55 ms,8681 kB/s
