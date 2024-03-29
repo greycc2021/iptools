@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.201.73,80,false,HKG,Asia Pacific,Hong Kong,58 ms,17677 kB/s
-47.243.173.187,80,false,HKG,Asia Pacific,Hong Kong,53 ms,16839 kB/s
-8.218.143.10,80,false,HKG,Asia Pacific,Hong Kong,57 ms,16232 kB/s
-8.218.136.25,80,false,HKG,Asia Pacific,Hong Kong,54 ms,16147 kB/s
-8.217.250.5,80,false,HKG,Asia Pacific,Hong Kong,55 ms,15135 kB/s
-8.218.181.189,80,false,HKG,Asia Pacific,Hong Kong,61 ms,15064 kB/s
-47.242.202.230,80,false,HKG,Asia Pacific,Hong Kong,57 ms,15050 kB/s
-8.218.65.237,80,false,HKG,Asia Pacific,Hong Kong,61 ms,15045 kB/s
-8.217.49.34,80,false,HKG,Asia Pacific,Hong Kong,56 ms,14992 kB/s
-8.218.18.132,80,false,HKG,Asia Pacific,Hong Kong,57 ms,14938 kB/s
-8.218.65.237,80,false,HKG,Asia Pacific,Hong Kong,58 ms,14924 kB/s
-8.210.39.96,80,false,HKG,Asia Pacific,Hong Kong,53 ms,14598 kB/s
-8.218.204.128,80,false,HKG,Asia Pacific,Hong Kong,57 ms,14431 kB/s
-8.218.188.129,80,false,HKG,Asia Pacific,Hong Kong,57 ms,14355 kB/s
-8.218.158.94,80,false,HKG,Asia Pacific,Hong Kong,58 ms,5364 kB/s
+8.217.49.34,80,false,HKG,Asia Pacific,Hong Kong,57 ms,17628 kB/s
+47.243.162.49,80,false,HKG,Asia Pacific,Hong Kong,55 ms,17612 kB/s
+8.210.65.1,80,false,HKG,Asia Pacific,Hong Kong,53 ms,17570 kB/s
+8.218.136.25,80,false,HKG,Asia Pacific,Hong Kong,57 ms,17398 kB/s
+8.217.248.220,80,false,HKG,Asia Pacific,Hong Kong,57 ms,15712 kB/s
+47.74.34.135,80,false,NRT,Asia Pacific,Tokyo,81 ms,15173 kB/s
+8.217.250.5,80,false,HKG,Asia Pacific,Hong Kong,53 ms,14970 kB/s
+8.218.143.10,80,false,HKG,Asia Pacific,Hong Kong,62 ms,14866 kB/s
+8.218.188.129,80,false,HKG,Asia Pacific,Hong Kong,58 ms,12758 kB/s
+8.218.52.115,80,false,HKG,Asia Pacific,Hong Kong,58 ms,12561 kB/s
+8.210.39.96,80,false,HKG,Asia Pacific,Hong Kong,53 ms,11706 kB/s
+47.243.173.187,80,false,HKG,Asia Pacific,Hong Kong,54 ms,9919 kB/s
+8.218.22.210,80,false,HKG,Asia Pacific,Hong Kong,58 ms,9484 kB/s
+8.218.204.128,80,false,HKG,Asia Pacific,Hong Kong,57 ms,8924 kB/s
+8.218.65.237,80,false,HKG,Asia Pacific,Hong Kong,55 ms,7261 kB/s
