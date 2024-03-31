@@ -1,15 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.210.146.108,80,false,HKG,Asia Pacific,Hong Kong,56 ms,16916 kB/s
-47.74.42.17,80,false,NRT,Asia Pacific,Tokyo,82 ms,15304 kB/s
-8.218.52.115,80,false,HKG,Asia Pacific,Hong Kong,56 ms,15239 kB/s
-8.218.204.128,80,false,HKG,Asia Pacific,Hong Kong,56 ms,15134 kB/s
-8.210.9.129,80,false,HKG,Asia Pacific,Hong Kong,56 ms,15075 kB/s
-8.217.250.5,80,false,HKG,Asia Pacific,Hong Kong,59 ms,15024 kB/s
-8.210.39.96,80,false,HKG,Asia Pacific,Hong Kong,54 ms,14992 kB/s
-8.217.49.34,80,false,HKG,Asia Pacific,Hong Kong,57 ms,14864 kB/s
-47.74.43.95,80,false,NRT,Asia Pacific,Tokyo,76 ms,14826 kB/s
-8.217.248.220,80,false,HKG,Asia Pacific,Hong Kong,55 ms,14613 kB/s
-8.218.18.132,80,false,HKG,Asia Pacific,Hong Kong,58 ms,12955 kB/s
-8.218.65.237,80,false,HKG,Asia Pacific,Hong Kong,57 ms,12166 kB/s
-47.243.173.187,80,false,HKG,Asia Pacific,Hong Kong,53 ms,10484 kB/s
-47.242.202.230,80,false,HKG,Asia Pacific,Hong Kong,55 ms,9153 kB/s
+8.218.2.181,80,false,HKG,Asia Pacific,Hong Kong,54 ms,17245 kB/s
+8.210.39.96,80,false,HKG,Asia Pacific,Hong Kong,53 ms,16262 kB/s
+8.218.181.189,80,false,HKG,Asia Pacific,Hong Kong,56 ms,15875 kB/s
+8.210.9.129,80,false,HKG,Asia Pacific,Hong Kong,56 ms,15540 kB/s
+8.218.201.73,80,false,HKG,Asia Pacific,Hong Kong,58 ms,15076 kB/s
+47.74.41.87,80,false,NRT,Asia Pacific,Tokyo,77 ms,14961 kB/s
+8.218.52.115,80,false,HKG,Asia Pacific,Hong Kong,60 ms,14812 kB/s
+8.218.18.132,80,false,HKG,Asia Pacific,Hong Kong,57 ms,14668 kB/s
+8.217.49.34,80,false,HKG,Asia Pacific,Hong Kong,59 ms,14344 kB/s
+8.217.250.5,80,false,HKG,Asia Pacific,Hong Kong,56 ms,14059 kB/s
+47.74.43.95,80,false,NRT,Asia Pacific,Tokyo,79 ms,13691 kB/s
+8.218.126.53,80,false,HKG,Asia Pacific,Hong Kong,54 ms,13266 kB/s
+8.218.65.237,80,false,HKG,Asia Pacific,Hong Kong,57 ms,6103 kB/s
