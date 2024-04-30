@@ -1,9 +1,9 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-185.162.231.70,80,false,LAX,North America,Los Angeles,195 ms
-185.193.30.111,80,false,LAX,North America,Los Angeles,196 ms
-194.152.44.176,80,false,LAX,North America,Los Angeles,196 ms
 45.12.31.81,80,false,LAX,North America,Los Angeles,196 ms
-185.162.230.133,80,false,LAX,North America,Los Angeles,198 ms
-193.9.49.147,80,false,LAX,North America,Los Angeles,198 ms
+193.9.49.147,80,false,LAX,North America,Los Angeles,197 ms
+192.65.217.57,80,false,LAX,North America,Los Angeles,198 ms
+194.152.44.176,80,false,LAX,North America,Los Angeles,198 ms
+185.193.30.111,80,false,LAX,North America,Los Angeles,199 ms
 188.42.88.18,80,false,LAX,North America,Los Angeles,199 ms
-192.65.217.57,80,false,LAX,North America,Los Angeles,203 ms
+185.162.231.70,80,false,LAX,North America,Los Angeles,199 ms
+185.162.230.133,80,false,LAX,North America,Los Angeles,199 ms
