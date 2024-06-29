@@ -1,10 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.124.227,80,false,SIN,Asia Pacific,Singapore,85 ms,0 kB/s
-8.219.111.147,80,false,SIN,Asia Pacific,Singapore,87 ms,0 kB/s
-8.219.67.133,80,false,SIN,Asia Pacific,Singapore,87 ms,0 kB/s
-47.74.155.26,80,false,SIN,Asia Pacific,Singapore,87 ms,0 kB/s
-8.219.170.232,80,false,SIN,Asia Pacific,Singapore,126 ms,0 kB/s
-130.162.61.18,80,false,FRA,Europe,Frankfurt,128 ms,0 kB/s
-165.1.76.23,80,false,SJC,North America,San Jose,209 ms,0 kB/s
-152.70.155.147,80,false,LAX,North America,Los Angeles,215 ms,0 kB/s
-164.152.34.166,80,false,GRU,South America,S?o Paulo,361 ms,0 kB/s
+8.219.124.227,80,false,SIN,Asia Pacific,Singapore,87 ms,0 kB/s
+8.219.67.133,80,false,SIN,Asia Pacific,Singapore,89 ms,0 kB/s
+8.219.111.147,80,false,SIN,Asia Pacific,Singapore,90 ms,0 kB/s
+47.74.155.26,80,false,SIN,Asia Pacific,Singapore,90 ms,0 kB/s
+8.219.170.232,80,false,SIN,Asia Pacific,Singapore,129 ms,0 kB/s
+165.1.76.23,80,false,SJC,North America,San Jose,206 ms,0 kB/s
+152.70.155.147,80,false,LAX,North America,Los Angeles,218 ms,0 kB/s
+130.162.61.18,80,false,FRA,Europe,Frankfurt,261 ms,0 kB/s
+164.152.34.166,80,false,GRU,South America,S?o Paulo,363 ms,0 kB/s
