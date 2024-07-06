@@ -1,14 +1,19 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.3.12,2053,true,HKG,Asia Pacific,Hong Kong,232 ms,12176 kB/s
-47.242.232.14,2053,true,HKG,Asia Pacific,Hong Kong,133 ms,12058 kB/s
-8.210.100.23,2053,true,HKG,Asia Pacific,Hong Kong,135 ms,12010 kB/s
-47.242.183.7,2053,true,HKG,Asia Pacific,Hong Kong,129 ms,11949 kB/s
-8.210.85.222,2053,true,HKG,Asia Pacific,Hong Kong,364 ms,11879 kB/s
-8.210.89.245,2053,true,HKG,Asia Pacific,Hong Kong,139 ms,11759 kB/s
-47.243.86.79,2053,true,HKG,Asia Pacific,Hong Kong,141 ms,11751 kB/s
-47.243.60.150,2053,true,HKG,Asia Pacific,Hong Kong,140 ms,10778 kB/s
-8.219.147.58,2053,true,SIN,Asia Pacific,Singapore,486 ms,10693 kB/s
-8.219.161.129,2053,true,SIN,Asia Pacific,Singapore,565 ms,10358 kB/s
-8.210.63.130,2053,true,HKG,Asia Pacific,Hong Kong,151 ms,9853 kB/s
-47.243.169.90,2053,true,HKG,Asia Pacific,Hong Kong,154 ms,18 kB/s
-47.243.120.239,2053,true,HKG,Asia Pacific,Hong Kong,139 ms,17 kB/s
+47.243.60.150,2053,true,HKG,Asia Pacific,Hong Kong,55 ms,12184 kB/s
+8.210.107.246,2053,true,HKG,Asia Pacific,Hong Kong,118 ms,12180 kB/s
+8.210.100.23,2053,true,HKG,Asia Pacific,Hong Kong,60 ms,12175 kB/s
+47.243.86.79,2053,true,HKG,Asia Pacific,Hong Kong,141 ms,11977 kB/s
+47.76.178.146,2053,true,HKG,Asia Pacific,Hong Kong,120 ms,11857 kB/s
+47.242.232.14,2053,true,HKG,Asia Pacific,Hong Kong,77 ms,11476 kB/s
+8.219.201.245,2053,true,SIN,Asia Pacific,Singapore,245 ms,11362 kB/s
+8.219.193.202,2053,true,SIN,Asia Pacific,Singapore,130 ms,11137 kB/s
+8.219.139.13,2053,true,SIN,Asia Pacific,Singapore,264 ms,10974 kB/s
+8.210.89.245,2053,true,HKG,Asia Pacific,Hong Kong,59 ms,10709 kB/s
+8.219.170.232,2053,true,SIN,Asia Pacific,Singapore,230 ms,10702 kB/s
+8.219.174.213,2053,true,SIN,Asia Pacific,Singapore,224 ms,10690 kB/s
+8.219.194.170,2053,true,SIN,Asia Pacific,Singapore,110 ms,10557 kB/s
+8.219.142.191,2053,true,SIN,Asia Pacific,Singapore,230 ms,10495 kB/s
+8.219.229.190,2053,true,SIN,Asia Pacific,Singapore,207 ms,10486 kB/s
+8.219.210.64,2053,true,SIN,Asia Pacific,Singapore,231 ms,9303 kB/s
+47.245.102.52,2053,true,SIN,Asia Pacific,Singapore,525 ms,5551 kB/s
+47.243.120.239,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,18 kB/s
