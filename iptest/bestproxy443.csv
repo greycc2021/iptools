@@ -1,11 +1,9 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.170.232,443,true,SIN,Asia Pacific,Singapore,146 ms,9965 kB/s
-8.219.201.245,443,true,SIN,Asia Pacific,Singapore,128 ms,8339 kB/s
-8.219.237.250,443,true,SIN,Asia Pacific,Singapore,127 ms,7597 kB/s
-8.219.126.240,443,true,SIN,Asia Pacific,Singapore,314 ms,4999 kB/s
-8.222.181.117,443,true,SIN,Asia Pacific,Singapore,335 ms,4888 kB/s
-8.222.208.38,443,true,SIN,Asia Pacific,Singapore,319 ms,4781 kB/s
-47.90.141.204,443,true,LAX,North America,Los Angeles,262 ms,2754 kB/s
-47.57.245.232,443,true,SJC,North America,San Jose,59 ms,355 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,369 ms,0 kB/s
-144.24.144.144,443,true,HYD,Asia Pacific,Hyderabad,380 ms,0 kB/s
+8.222.208.38,443,true,SIN,Asia Pacific,Singapore,354 ms,2612 kB/s
+8.222.181.117,443,true,SIN,Asia Pacific,Singapore,322 ms,2216 kB/s
+47.90.141.204,443,true,LAX,North America,Los Angeles,266 ms,1458 kB/s
+8.219.170.232,443,true,SIN,Asia Pacific,Singapore,135 ms,667 kB/s
+8.219.237.250,443,true,SIN,Asia Pacific,Singapore,139 ms,240 kB/s
+8.219.111.147,443,true,SIN,Asia Pacific,Singapore,337 ms,73 kB/s
+144.24.144.144,443,true,HYD,Asia Pacific,Hyderabad,319 ms,0 kB/s
+47.57.245.232,443,true,SJC,North America,San Jose,53 ms,0 kB/s
