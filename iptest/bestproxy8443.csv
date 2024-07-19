@@ -1,9 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-193.123.61.142,8443,true,AMS,Europe,Amsterdam,136 ms,5069 kB/s
-141.147.47.32,8443,true,FRA,Europe,Frankfurt,155 ms,4983 kB/s
-141.147.61.116,8443,true,FRA,Europe,Frankfurt,357 ms,740 kB/s
-47.243.198.198,8443,true,HKG,Asia Pacific,Hong Kong,57 ms,51 kB/s
-150.230.20.156,8443,true,AMS,Europe,Amsterdam,249 ms,41 kB/s
-47.243.120.239,8443,true,HKG,Asia Pacific,Hong Kong,55 ms,17 kB/s
-8.219.208.104,8443,true,SIN,Asia Pacific,Singapore,147 ms,11 kB/s
-8.222.145.43,8443,true,SIN,Asia Pacific,Singapore,129 ms,5 kB/s
+47.243.183.127,8443,true,HKG,Asia Pacific,Hong Kong,61 ms,11705 kB/s
+47.243.42.219,8443,true,HKG,Asia Pacific,Hong Kong,55 ms,11199 kB/s
+47.242.171.94,8443,true,HKG,Asia Pacific,Hong Kong,59 ms,11168 kB/s
+8.210.3.24,8443,true,HKG,Asia Pacific,Hong Kong,58 ms,11164 kB/s
+8.218.53.110,8443,true,HKG,Asia Pacific,Hong Kong,63 ms,10972 kB/s
+47.243.206.150,8443,true,HKG,Asia Pacific,Hong Kong,54 ms,10644 kB/s
+47.243.139.243,8443,true,HKG,Asia Pacific,Hong Kong,57 ms,10577 kB/s
+8.217.72.0,8443,true,HKG,Asia Pacific,Hong Kong,56 ms,10406 kB/s
+47.243.26.83,8443,true,HKG,Asia Pacific,Hong Kong,62 ms,10014 kB/s
