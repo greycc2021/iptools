@@ -1,3 +1,2 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.147.51.21,443,true,FRA,Europe,Frankfurt,232 ms,10021 kB/s
-132.145.134.230,443,true,IAD,North America,Ashburn,262 ms,96 kB/s
+8.219.174.142,443,true,SIN,Asia Pacific,Singapore,165 ms,3401 kB/s
