@@ -1,7 +1,15 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.218.18.235,80,false,HKG,Asia Pacific,Hong Kong,54 ms,0 kB/s
-8.218.65.171,80,false,HKG,Asia Pacific,Hong Kong,57 ms,0 kB/s
-8.218.174.118,80,false,HKG,Asia Pacific,Hong Kong,56 ms,0 kB/s
-47.242.234.127,80,false,SIN,Asia Pacific,Singapore,88 ms,0 kB/s
-8.219.201.245,80,false,SIN,Asia Pacific,Singapore,123 ms,0 kB/s
-8.219.40.37,80,false,SIN,Asia Pacific,Singapore,216 ms,0 kB/s
+8.218.52.115,80,false,HKG,Asia Pacific,Hong Kong,56 ms,0 kB/s
+8.218.18.235,80,false,HKG,Asia Pacific,Hong Kong,55 ms,0 kB/s
+8.218.65.171,80,false,HKG,Asia Pacific,Hong Kong,55 ms,0 kB/s
+8.210.48.107,80,false,HKG,Asia Pacific,Hong Kong,55 ms,0 kB/s
+8.218.3.198,80,false,HKG,Asia Pacific,Hong Kong,59 ms,0 kB/s
+8.219.210.57,80,false,SIN,Asia Pacific,Singapore,106 ms,0 kB/s
+8.219.220.88,80,false,SIN,Asia Pacific,Singapore,109 ms,0 kB/s
+8.219.163.195,80,false,SIN,Asia Pacific,Singapore,126 ms,0 kB/s
+8.219.170.232,80,false,SIN,Asia Pacific,Singapore,127 ms,0 kB/s
+8.219.209.14,80,false,SIN,Asia Pacific,Singapore,158 ms,0 kB/s
+198.11.174.141,80,false,SJC,North America,San Jose,196 ms,0 kB/s
+8.219.120.87,80,false,SIN,Asia Pacific,Singapore,226 ms,0 kB/s
+130.162.61.18,80,false,FRA,Europe,Frankfurt,244 ms,0 kB/s
+129.151.221.152,80,false,ARN,Europe,Stockholm,251 ms,0 kB/s
