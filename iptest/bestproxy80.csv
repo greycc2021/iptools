@@ -1,4 +1,3 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-130.162.61.18,80,false,FRA,Europe,Frankfurt,129 ms,0 kB/s
-198.11.174.141,80,false,SJC,North America,San Jose,195 ms,0 kB/s
-129.151.221.152,80,false,ARN,Europe,Stockholm,265 ms,0 kB/s
+129.151.221.152,80,false,ARN,Europe,Stockholm,252 ms,0 kB/s
+130.162.61.18,80,false,FRA,Europe,Frankfurt,341 ms,0 kB/s
