@@ -1,6 +1,2 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-144.24.85.158,80,false,ICN,Asia Pacific,Seoul,107 ms,0 kB/s
-152.67.222.250,80,false,ICN,Asia Pacific,Seoul,109 ms,0 kB/s
-130.162.61.18,80,false,FRA,Europe,Frankfurt,242 ms,0 kB/s
-129.80.26.68,80,false,IAD,North America,Ashburn,265 ms,0 kB/s
-150.136.169.72,80,false,IAD,North America,Ashburn,251 ms,0 kB/s
+8.212.41.98,80,false,SIN,Asia Pacific,Singapore,57 ms,0 kB/s
